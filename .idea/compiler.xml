@@ -6,7 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="SpringSocket" />
+        <module name="SpringBoot-Socket-Client-Server" />
+        <module name="SpringBoot-Socket-Client-Server" />
       </profile>
     </annotationProcessing>
   </component>
