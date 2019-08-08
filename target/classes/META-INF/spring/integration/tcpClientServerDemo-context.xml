@@ -51,7 +51,7 @@
 
 	<int:service-activator input-channel="toSA"
 						   ref="echoService"
-						   method="test"/>
+						   method="serviceRunner"/>
 
 	<bean id="echoService"
 		  class="org.springframework.integration.samples.tcpclientserver.EchoService"/>
